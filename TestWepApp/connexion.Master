@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="connexion.master.cs" Inherits="TestWepApp.connexion1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="connexion" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+        <asp:ContentPlaceHolder runat="server" ID="MainContent" >
+
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

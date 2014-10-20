@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWepApp", "TestWepApp\TestWepApp.csproj", "{DFFFA8C9-7097-45D1-BF7A-9143BBBC470F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWepApp.Tests", "TestWepApp.Tests\TestWepApp.Tests.csproj", "{FE19B939-AB1C-46C9-8E2F-CDCCA0B0B37A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFFA8C9-7097-45D1-BF7A-9143BBBC470F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFFA8C9-7097-45D1-BF7A-9143BBBC470F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFFA8C9-7097-45D1-BF7A-9143BBBC470F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFFA8C9-7097-45D1-BF7A-9143BBBC470F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE19B939-AB1C-46C9-8E2F-CDCCA0B0B37A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE19B939-AB1C-46C9-8E2F-CDCCA0B0B37A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE19B939-AB1C-46C9-8E2F-CDCCA0B0B37A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE19B939-AB1C-46C9-8E2F-CDCCA0B0B37A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

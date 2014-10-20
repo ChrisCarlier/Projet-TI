@@ -1,0 +1,233 @@
+﻿html,body {
+    height:100%;
+    margin:0;
+    padding:0;
+}
+form{
+    height:100%;
+}
+
+#test{
+    background-color:#281b7b;
+    width:25%;
+    height:100%;
+    float:left;
+}
+#test2{
+    float:left;
+    background-color:#8986d2;
+    margin:0;
+    padding:0;
+    width:75%;
+    height:100%;
+}
+
+#default_profil{
+    width:60%;
+    margin-left:20%;
+    margin-top:5%;
+}
+
+#logo{
+    width:60%;
+    margin-left:20%;
+    margin-top:5%;
+}
+#bloc_droit{
+    margin-top:5%;
+    width:100%;
+    text-align:center;
+}
+
+.bouton_parent{
+    background-color:#990707;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:50px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:100%;
+    padding-top:2%;
+    padding-bottom:2%;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+    margin-left:5%;
+    width:25%;
+}
+.bouton_BB{
+     background-color:#990707;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:50px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:100%;
+    padding-top:2%;
+    padding-bottom:2%;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+    margin-left:5%;
+    width:25%;
+}
+.bouton_Connexion{
+     background-color:#8986d2;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:50px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:100%;
+    padding-top:1%;
+    padding-bottom:1%;
+    margin-top:1%;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+    margin-left:3%;
+    width:25%;
+}
+#connect{
+    background-color:#6f6eab;
+    text-align:center;
+    width:35%;
+    padding-top:2%;
+    padding-bottom:2%;
+    margin-left:32%;
+    margin-top:10%;
+    border-radius:10px;
+}
+
+#champ{
+    width:90%;
+    margin-left:5%;
+    margin-top:2%;
+    border:hidden;
+    border-color:#8986d2;
+    background-color:#8986d2;
+    
+}
+#population_table{
+    border: medium solid #281b7b;
+    border-collapse: collapse;
+    width: 90%;
+    margin-left:5%;
+    margin-top:2%;
+}
+tr{
+    text-align:center;
+    font-family: sans-serif;
+    border: thin solid #112954;
+    width: 50%;
+    padding: 5px;
+    text-align: center;
+    background-color: #ffffff;
+}
+#champ tr{
+    background-color: #8986d2;
+}
+th{
+    text-align:center;
+    font-family: monospace;
+    border: thin solid #394863;
+    width: 25%;
+    padding: 5px;
+    background-color: #374250;
+}
+td{
+    color:#000000;
+}
+#info_parent{
+    margin-left:5%;
+}
+#basPage_profil{
+    text-align:center;
+}
+.img_Accueil{
+    width:3%;
+}
+#calendar{
+    width:25%;
+    margin-left:37%;
+    margin-top:5%;
+}
+
+#table_rdv{
+    width:50%;
+    margin-left:25%;
+}
+#div_rdv{
+    height:100%;
+    padding:2%;
+    background-color:#586883;
+}
+#title_rdv{
+    font-size:15px;
+    width:40%;
+    text-align:center;
+    margin-left:30%;
+    margin-top:1%;
+    padding-left:1%;
+    font-weight:bold;
+    background-color:#586883;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+#tabevalue{
+    margin : 15%;
+    width:70%;
+}
+.Evalue{
+    margin-left:5%;
+}
+#evalue{
+    background-color:#130a4d;
+    width:25%;
+    height:100%;
+    float:left;
+}
+#MonEval{
+   margin-left:30%;
+}
+#Info_BB{
+    margin-left:5%;
+    width:80%;
+    background-color:#3c4652;
+}
+#Eval{
+    margin-left:5%;
+    width:80%;
+    background-color:#3c4652;
+}
+.Bouton_Eval{
+     background-color:#8986d2;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:50px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:100%;
+    padding-top:1%;
+    padding-bottom:1%;
+    margin-top:1%;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+    margin-left:70%;
+    width:15%;
+}
+#Commentaires{
+    margin-left:5%;
+    width:90%;
+}
